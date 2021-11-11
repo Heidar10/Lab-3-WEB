@@ -1,0 +1,20 @@
+body{
+    background-color:#334790;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.avatar{
+    width: 200px;
+    border-radius: 50%;
+    
+}
+ 
+/* Box Model*/
+.container{
+    max-width: 100% ;
+    margin: auto;
+}
+
